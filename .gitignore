@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+.settings/
+bin/
+build/
+classes/
+out/
+src/main/resources/app-info.properties
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
